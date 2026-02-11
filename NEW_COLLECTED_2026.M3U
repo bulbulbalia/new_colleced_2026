@@ -72,7 +72,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 #EXTINF:-1,NTV_HD
 http://97.74.103.44:8089/load/ntv/chunks.m3u8
 #EXTINF:-1,EKUSHEY_TV_HD
-http://97.74.103.44:8089/load/ekushytv/chunks.m3u8
+https://edge2.roarzone.info:444/roarzone/bk/65/tracks-v1a1/2026/02/11/03/58/39-05000.ts?token=8c805650e05881d88fa8e1c2fd1743fc308d164d-ac43fed7328f281de449b974e9f41553-1770786530-1770775730
 #EXTINF:-1,COLORS_BANGLA_HD
 http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
 #EXTINF:-1,GAAN_BANGLA_HD
@@ -111,4 +111,5 @@ http://198.195.239.50:8095/AnimalPlanet/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HISTORY_HD
 http://97.74.103.44:8089/nimble_live/history/chunks.m3u8
+
 
