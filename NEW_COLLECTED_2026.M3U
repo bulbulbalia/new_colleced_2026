@@ -94,7 +94,7 @@ http://97.74.103.44:8089/load/and_pic_hd/chunks.m3u8
 #EXTINF:-1,ARY_DIGITAL_HD
 http://97.74.103.44:8089/load/arydigital/chunks.m3u8
 #EXTINF:-1,HUM_SHITARAY_HD
-https://edge2.roarzone.info:444/roarzone/toffee/hum_sitaray/tracks-v1a1/mono.m3u8?token=c030ce0bda562d6cd6873244ba97204fcac45c73-ed5c331cf80041811255f999b60c9eaa-1770777123-1770766323
+https://edge2.roarzone.info:444/roarzone/toffee/hum_sitaray/tracks-v1a1/mono.m3u8?token=91c6213a812a99ee9f85e72e14cc1eaeb88d2b30-c890ddbe9d2375de60ca6f82bcc46721-1770786530-1770775730
 #EXTINF:-1,SY_MOVIE_HD
 http://97.74.103.44:8089/load/skymovselect/chunks.m3u8
 #EXTINF:-1,HW_CINEMA_HD
@@ -111,3 +111,4 @@ http://198.195.239.50:8095/AnimalPlanet/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HISTORY_HD
 http://97.74.103.44:8089/nimble_live/history/chunks.m3u8
+
