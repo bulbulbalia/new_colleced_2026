@@ -14,7 +14,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 #EXTINF:-1,CHANNEL_24_HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1998800.m3u8
 #EXTINF:-1,CHANNEL_9_HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1998800.m3u8
 #EXTINF:-1,ASIAN_TV_HD
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1,GTV_HD
@@ -1042,6 +1042,7 @@ http://10.20.30.30:8989/SonyTen5/tracks-v1a1/mono.ts.m3u8
 http://10.20.30.30:8989/StarSportSL_1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live-7
 http://10.20.30.30:8989/WILLOWHD/tracks-v1a1/mono.ts.m3u8
+
 
 
 
