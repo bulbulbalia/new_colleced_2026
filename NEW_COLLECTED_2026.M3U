@@ -1042,9 +1042,613 @@ http://10.20.30.30:8989/SonyTen5/tracks-v1a1/mono.ts.m3u8
 http://10.20.30.30:8989/StarSportSL_1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live-7
 http://10.20.30.30:8989/WILLOWHD/tracks-v1a1/mono.ts.m3u8
+#EXTM3U
+#EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV News
+http://103.229.254.25:7001/play/a065/index.m3u8
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+
+#EXTINF:0 group-title=”Bangla”,BTV Chattogram
+
+#EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
+http://103.229.254.25:7001/play/a069/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
+
+#EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="JAGOBD  CHANNELS",ATN Islamic TV 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="JAGOBD  CHANNELS",PeaceTV Bangla
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="JAGOBD  CHANNELS", IQRA BANGLA
+
+#EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.ibb.co/YdZR2jZ/IMG-20240129-062846.jpg",ISLAM Tv
+
+#EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
+
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Madani TV
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/vr3EWTI.jpg group-title=”Islamic”,Makkah TV
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/QSrvJLt.jpeg group-title=”Islamic”,Madina TV
+
+#EXTINF:0 group-title=”Islamic”,Azan TV
+
+#EXTINF:0 group-title=”Islamic”,Makkah Live
+
+#EXTINF:0 group-title=”Islamic”,Madina Live
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
+
+
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Live Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
+https://tvsen3.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna YT
+
+#EXTINF:0 group-title=”Bangla”,Nagorik TV
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
+http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
+http://103.229.254.25:7001/play/a05k/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
+http://103.229.254.25:7001/play/a05t/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
+http://103.229.254.25:7001/play/a063/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
+http://103.229.254.25:7001/play/a05j/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
+http://103.229.254.25:7001/play/a05r/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
+http://103.229.254.25:7001/play/a05s/index.m3u8
+#EXTINF:0 group-title=”Bangla”,Nexus TV
+http://103.229.254.25:7001/play/a05m/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
+http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekhon TV
+http://103.229.254.25:7001/play/a09k/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
+http://103.229.254.25:7001/play/a05l/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
+http://103.229.254.25:7001/play/a06i/index.m3u8
+#EXTINF:0 group-title=”Bangla”,DBC News
+http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Bangla”,Ekhon Tv
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
+
+#EXTINF:0 group-title=”Bangla”,Jagonews 24
+
+#EXTINF:0 group-title=”Bangla”,Green TV
+
+#EXTINF:0 group-title=”Bangla”,Global Tv
+http://103.229.254.25:7001/play/a05o/index.m3u8
+#EXTINF:0 group-title=”Bangla”,Comilla 24
+
+
+
+
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
+http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
+http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
+http://103.229.254.25:7001/play/a06q/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
+http://103.229.254.25:7001/play/a068/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
+http://103.229.254.25:7001/play/a062/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
+http://103.229.254.25:7001/play/a06c/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
+http://103.229.254.25:7001/play/a066/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
+http://103.229.254.25:7001/play/a05z/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
+http://103.229.254.25:7001/play/a05v/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
+
+#EXTINF:-1 group-title="-",Channel S
+http://103.229.254.25:7001/play/a060/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,My Cinema
+
+
+
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/Jo7wzmn.png group-title=”Music”,Gaan Bangla
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/OTzS5Fc.png group-title=”Music”,ATN MUSIC
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,RTV MUSIC
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,MUSIC CIPL
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/g9OTeXV.png group-title=”Music”,Sangeet Bangla
+
+#EXTINF:0 group-title=”Music”,9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:0 group-title=”Music”,9XM Jalwa
+http://103.175.73.12:8080/live/155/161_0.m3u8
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/7rnhie0.png group-title=”Music”,Zoom
+http://103.175.73.12:8080/live/153/153_0.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV HD+
+http://103.229.254.25:7001/play/a02s/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV
+
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,Dhoom
+
+#EXTINF:0 group-title=”Music”,MTV Beats
+
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/LZ7W3Yc.png group-title=”Music”,Music India
+http://103.175.73.12:8080/live/156/158_0.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9XM Music
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,Mastiii
+http://103.175.73.12:8080/live/156/156_0.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,E24
+http://103.175.73.12:8080/live/156/159_0.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/wg3N1VT.png group-title=”Music”,8XM
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/wRc0YAb.png group-title=”Music”,Bindass
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/stZqDcA.png group-title=”Movies”,B4U Music
+http://103.175.73.12:8080/live/156/157_0.m3u8
 
 
 
 
 
 
+
+
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/ppJO2Ep.png group-title=”Drama”,Star Jalsha
+http://103.229.254.25:7001/play/a075/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
+http://103.229.254.25:7001/play/a0c0/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
+http://103.175.73.12:8080/live/246/246_0.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
+http://103.229.254.25:7001/play/a0c3/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Akash AATH
+http://103.175.73.12:8080/live/660/660_0.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
+http://103.229.254.25:7001/play/a0cw/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/HVZHZGl.png group-title=”Drama”,Colors Bangla HD
+http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="-",Enterr10 Bangla
+http://103.175.73.12:8080/live/658/658_0.m3u8
+
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Sony Cinema
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies HD
+http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Drama”,Colors Bangla Cinema
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/M6GyIvI.png group-title=”Movies”,Zee Bangla Cinema
+
+#EXTINF:0 group-title=”Movies”,Enterr10 Bangla
+
+#EXTINF:0 group-title=”Drama”,Sony AATH
+http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/index.m3u8
+#EXTINF:0 group-title=”Drama”,Sony AATH
+http://103.175.73.12:8080/live/196/196_0.m3u8
+
+
+
+
+
+
+#EXTINF:0 group-title=”Drama”,Sony Sab HD
+
+#EXTINF:0 group-title=”Drama”,Zee Tv HD
+
+#EXTINF:0 group-title=”Drama”,Star Plus HD
+
+#EXTINF:0 group-title=”Drama”,Sony TV
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Drama”,Sony HD
+http://103.229.254.25:7001/play/a09u/index.m3u8
+#EXTINF:0 group-title=”Drama”,Sony Pal
+http://103.175.73.12:8080/live/11/11_0.m3u8
+#EXTINF:0 group-title=”Drama”,Shemaroo
+http://103.175.73.12:8080/live/258/258_0.m3u8
+#EXTINF:0 group-title=”Drama”,Colors HD
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title=”Kids”,Doreamon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 group-title=”Kids”,Nick
+http://103.229.254.25:7001/play/a0cq/index.m3u8
+#EXTINF:-1 group-title=”Kids”,Nick Jr
+http://103.229.254.25:7001/play/a0di/index.m3u8
+#EXTINF:-1 group-title=”Kids”,Sonic
+http://103.229.254.25:7001/play/a0dl/index.m3u8
+#EXTINF:-1 group-title=”Kids”,Sonic
+
+#EXTINF:0 group-title=”Kids”,Disney
+http://103.175.73.12:8080/live/321/321_0.m3u8
+#EXTINF:0 group-title=”Kids”,Disney HD
+http://103.175.73.12:8080/live/126/126_0.m3u8
+#EXTINF:0 group-title=”Kids”,Disney jr
+http://103.175.73.12:8080/live/129/129_0.m3u8
+#EXTINF:0 group-title=”Kids”,Disney
+
+#EXTINF:0 group-title=”Kids”,Hungama
+http://103.175.73.12:8080/live/320/320_0.m3u8
+#EXTINF:0 group-title=”Kids”,Super Hungama
+http://103.175.73.12:8080/live/128/128_0.m3u8
+#EXTINF:0 group-title=”Kids”,Cartoon Network
+http://103.229.254.25:7001/play/a0cn/index.m3u8
+#EXTINF:0 group-title=”Kids”,Cartoon Network HD
+
+#EXTINF:0 group-title=”Kids”,Pogo
+http://103.229.254.25:7001/play/a0dh/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title=”Documentary”,Discovery
+http://103.175.73.12:8080/live/136/136_0.m3u8
+#EXTINF:0 group-title=”Documentary”,Discovery HD
+http://103.229.254.25:7001/play/a03g/index.m3u8
+#EXTINF:0 group-title=”Documentary”,Discovery Science
+http://103.229.254.25:7001/play/a03h/index.m3u8
+#EXTINF:-1 group-title="-",Investigation Discovery
+http://103.229.254.25:7001/play/a03c/index.m3u8
+
+
+#EXTINF:0 group-title=”Documentary”,National Geographic HD
+http://103.229.254.25:7001/play/a038/index.m3u8
+#EXTINF:0 group-title=”Documentary”,NatGeo Wild HD
+http://103.175.73.12:8080/live/133/133_0.m3u8
+#EXTINF:0 group-title=”Documentary”,Travel XP HD
+http://103.229.254.25:7001/play/a0cy/index.m3u8
+#EXTINF:0 group-title=”Documentary”,Animal Planet
+http://103.175.73.12:8080/live/137/137_0.m3u8
+#EXTINF:0 group-title=”Documentary”,Animal Planet HD
+http://103.229.254.25:7001/play/a0dr/index.m3u8
+#EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
+http://103.229.254.25:7001/play/a031/index.m3u8
+#EXTINF:0 group-title=”Documentary”,Sky Nature 
+
+#EXTINF:0 group-title=”Documentary”,TLC HD
+http://103.175.73.12:8080/live/138/138_0.m3u8
+#EXTINF:-1 group-title="-",History TV18 HD
+http://103.229.254.25:7001/play/a02z/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title=”Movies”,Dhinchaak
+
+#EXTINF:0 group-title=”Movies”,Zee Cinema
+
+
+#EXTINF:0 group-title=”Movies”,Sony Set Max
+
+#EXTINF:0 group-title=”Movies”,Sony Max
+http://103.229.254.25:7001/play/a0co/index.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Max HD
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Max 1
+http://103.175.73.12:8080/live/164/164_0.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Max 2
+http://103.175.73.12:8080/live/39/39_0.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Wah
+http://103.175.73.12:8080/live/38/38_0.m3u8
+#EXTINF:0 group-title=”Movies”,& Picture
+http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Movies”,& Picture HD
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 group-title="-",&Prive HD
+http://103.229.254.25:7001/play/a03f/index.m3u8
+#EXTINF:-1 group-title="-",&flix HD
+http://103.229.254.25:7001/play/a02x/index.m3u8
+
+
+#EXTINF:0 group-title=”Movies”,Colors Cineplex Superhits
+http://103.175.73.12:8080/live/14/14_0.m3u8
+#EXTINF:0 group-title=”Movies”,Colors Cineplex Bollywood
+http://103.175.73.12:8080/live/437/437_0.m3u8
+#EXTINF:0 group-title=”Movies”,Colors Cineplex HD
+http://103.175.73.12:8080/live/37/37_0.m3u8
+#EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
+#EXTINF:0 group-title=”Movies”,Zee Cinema
+http://103.175.73.12:8080/live/265/265_0.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Cinema
+http://103.229.254.25:7001/play/a06s/index.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Cinema HD
+http://103.229.254.25:7001/play/a0c2/index.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
+http://103.229.254.25:7001/play/a035/index.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Anmol Cinema 2
+http://103.175.73.12:8080/live/257/257_0.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Bollywood
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 group-title="-",Zee Cafe HD
+http://103.229.254.25:7001/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="-",Zee Classic
+http://103.229.254.25:7001/play/a09w/index.m3u8
+
+
+#EXTINF:0 group-title=”Movies”,Star Gold
+http://103.175.73.12:8080/live/31/31_0.m3u8
+#EXTINF:0 group-title=”Movies”,Star Gold HD
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold 2
+http://103.229.254.25:7001/play/a0df/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold 2 HD
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Romance
+http://103.229.254.25:7001/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Thrills
+http://103.175.73.12:8080/live/36/36_0.m3u8
+#EXTINF:-1 group-title="-",Star Gold Select
+http://103.175.73.12:8080/live/41/41_0.m3u8
+#EXTINF:-1 group-title="-",Star Gold Select HD
+http://103.229.254.25:7001/play/a032/index.m3u8
+
+#EXTINF:0 group-title=”Movies”,UTV Cinema HD
+
+#EXTINF:0 group-title=”Movies”,UTV Movies HD
+
+#EXTINF:0 group-title=”Movies”,Star Gold HD
+
+#EXTINF:0 group-title=”Movies”,Star Gold Select
+
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES
+http://103.175.73.12:8080/live/53/53_0.m3u8
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES BOLLYWOOD
+http://103.229.254.25:7001/play/a07l/index.m3u8
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES MOVIES
+http://103.229.254.25:7001/play/a07k/index.m3u8
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",Goldmines 2
+http://103.175.73.12:8080/live/46/46_0.m3u8
+
+
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U KADAK
+http://103.229.254.25:7001/play/a08c/index.m3u8
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",Bollywood Action
+http://103.229.254.25:7001/play/a0es/index.m3u8
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",DHAMAKA MOVIES
+
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U MOVIES
+http://103.175.73.12:8080/live/43/43_0.m3u8
+
+
+
+#EXTINF:0 group-title=”Movies”,UTV Action
+
+#EXTINF:0 group-title=”Movies”,UTV Movies
+
+#EXTINF:0 group-title=”Movies”,B4U Kadak
+
+
+#EXTINF:0 group-title=”Movies”,BflixMovies
+
+#EXTINF:0 group-title=”Movies”,Box Cinema
+
+#EXTINF:0 group-title=”Movies”,Maha Movie
+
+#EXTINF:0 group-title=”Movies”,Miniplex
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title=”Entertainment”,Sony Pix
+http://103.175.73.12:8080/live/59/59_0.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Pix HD
+http://103.229.254.25:7001/play/a02u/index.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Cafe HD
+http://103.229.254.25:7001/play/a0cx/index.m3u8
+#EXTINF:0 group-title=”Movies”,Star Movies HD
+#EXTINF:-1 group-title="-",STAR Movies HD
+http://103.229.254.25:7001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="-",STAR Movies Select HD
+http://103.229.254.25:7001/play/a02v/index.m3u8
+
+#EXTINF:0 group-title=”Movies”,Movies Now
+http://103.175.73.12:8080/live/61/61_0.m3u8
+#EXTINF:0 group-title=”Movies”,Romedy Now
+http://103.175.73.12:8080/live/63/63_0.m3u8
+#EXTINF:0 group-title=”Movies”, Hollywood HD
+
+#EXTINF:0 group-title=”Movies”,MNX 
+http://103.175.73.12:8080/live/62/62_0.m3u8
+#EXTINF:0 group-title=”Movies”,HBO
+
+#EXTINF:0 group-title=”Movies”,Lotus Macau
+
+#EXTINF:0 group-title=”Movies”,AXN
+
+#EXTINF:-1 group-title="-",MAX Movies
+http://103.229.254.25:7001/play/a0et/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title=”Sports”,Fox Sports 505
+
+#EXTINF:-1 group-title="-",A SportsHD
+http://103.229.254.25:7001/play/a087/index.m3u8
+#EXTINF:0 group-title=”Sports”,Fox Sports 501
+
+#EXTINF:0 group-title=”Sports”,Willow Xtra
+
+#EXTINF:0 group-title=”Sports”,Willow HD
+
+
+#EXTINF:0 group-title=”Sports”,Sky Sports Cricket
+
+#EXTINF:0 group-title=”Sports”,Astro Cricket
+
+#EXTINF:0 group-title=”Sports”, Super Cricket 
+
+#EXTINF:0 group-title=”Sports”,Sport 18 HD
+
+
+#EXTINF:0 group-title=”Sports”,Sony
+
+#EXTINF:0 group-title=”Sports”,World Cup
+
+#EXTINF:0 group-title=”Sports”,World Cup 2
+
+
+#EXTINF:0 group-title=”Sports”,Sport TV 1
+
+#EXTINF:0 group-title=”Sports”,Sport TV
+
+#EXTINF:0 group-title=”Sports”,FS1
+
+#EXTINF:-1 group-title="-",Bein Sport 1
+http://103.229.254.25:7001/play/a0f0/index.m3u8
+#EXTINF:-1 group-title="-",Bein Sport 2
+http://103.229.254.25:7001/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="-",Ten Cricket
+http://103.229.254.25:7001/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="-",ThePapare 1
+http://103.229.254.25:7001/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="-",ThePapare 2
+http://103.229.254.25:7001/play/a0ex/index.m3u8
+
+
+#EXTINF:0 group-title="TATA SKY",Sony SIX
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 1 HD
+http://103.175.73.12:8080/live/74/74_0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 2 HD
+http://103.229.254.25:7001/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 3 HD
+http://103.175.73.12:8080/live/78/78_0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 5 HD
+http://103.229.254.25:7001/play/a0dw/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1 HD
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2 HD
+http://103.175.73.12:8080/live/67/67_0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
+http://103.175.73.12:8080/live/69/69_0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 1 HD
+http://103.229.254.25:7001/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 2 HD
+http://103.229.254.25:7001/play/a0c1/index.m3u8
+#EXTINF:0 group-title=”Sports”,Eurosport HD
+http://103.229.254.25:7001/play/a03b/index.m3u8
+#EXTINF:0 group-title=”Sports”,Ten Sports 
+
+#EXTINF:0 group-title=”Sports”,PTV Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Sports”,RMC Sports 1
+
+#EXTINF:-1 group-title="LTWS SPORTS",GEO SUPER
+
+#EXTINF:-1 group-title="LTWS SPORTS",A SPORTS HD
+
+#EXTINF:-1 group-title="LTWS SPORTS",SPORTS 18
+
+#EXTINF:-1 group-title="LTWS SPORTS",DD SPORTS HD
+
+#EXTINF:-1 group-title="LTWS SPORTS",PTV SPORTS
+
+#EXTINF:-1 group-title="LTWS SPORTS",WILLOW HD
+
+#EXTINF:-1 group-title="LTWS SPORTS",ESPN
+
+#EXTINF:-1 group-title="LTWS SPORTS",TSN 1
+
+#EXTINF:-1 group-title="LTWS SPORTS",TSN 2
+
+#EXTINF:-1 group-title="LTWS SPORTS",TSN 3
+
+#EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 1
+
+#EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 2
+
+#EXTINF:-1 group-title="LTWS SPORTS",Redbull TV
