@@ -42,7 +42,7 @@ http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DBC_NEWS_HD
 http://172.19.178.59:18190/SN-ST-TV-12/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SA_TV_HD
-https://raw.githubusercontent.com/bulbulbalia/new_colleced_2026/refs/heads/main/NEW_COLLECTED_2026.M3U
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=2407200.m3u8
 #EXTINF:-1,CHANNel_9_HD
 http://172.19.178.59:18190/SN-ST-TV-29/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BOISHAKHI_TV_HD
@@ -1652,4 +1652,5 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 2
 
 #EXTINF:-1 group-title="LTWS SPORTS",Redbull TV
+
 
