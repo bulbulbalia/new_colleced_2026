@@ -78,7 +78,7 @@ http://97.74.103.44:8089/load/gaanbangla/chunks.m3u8
 #EXTINF:-1,9X_JALWA
 http://97.74.103.44:8089/load/9x_jalwa/chunks.m3u8
 #EXTINF:-1,SANGEET_BANGLA
-http://97.74.103.44:8089/load/sangeet_bangla/chunks.m3u8
+https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 #EXTINF:-1,9XM
 http://97.74.103.44:8089/amrbd/9XM/chunks.m3u8
 #EXTINF:-1,STAR_PLUS_HD
@@ -1650,6 +1650,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 2
 
 #EXTINF:-1 group-title="LTWS SPORTS",Redbull TV
+
 
 
 
