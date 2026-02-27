@@ -55,8 +55,6 @@ http://172.19.178.59:18190/SN-ST-TV-32/tracks-v1a1/mono.m3u8
 http://172.19.178.59:18190/SN-ST-TV-34/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MY_TV_HD
 http://172.19.178.59:18190/SN-ST-TV-36/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTV_HD
-http://172.19.178.19:18190/INT-TV-01/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DEEPTO_TV_HD
 http://172.19.178.19:18190/IX-TV-01/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_JALSHA_HD
@@ -73,14 +71,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 http://97.74.103.44:8089/load/ntv/chunks.m3u8
 #EXTINF:-1,COLORS_BANGLA_HD
 http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
-#EXTINF:-1,GAAN_BANGLA_HD
-http://97.74.103.44:8089/load/gaanbangla/chunks.m3u8
 #EXTINF:-1,9X_JALWA
 http://97.74.103.44:8089/load/9x_jalwa/chunks.m3u8
 #EXTINF:-1,SANGEET_BANGLA
 https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 #EXTINF:-1,9XM
-http://97.74.103.44:8089/amrbd/9XM/chunks.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8
 #EXTINF:-1,STAR_PLUS_HD
 http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY_TV_HD
@@ -1650,6 +1646,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 2
 
 #EXTINF:-1 group-title="LTWS SPORTS",Redbull TV
+
 
 
 
